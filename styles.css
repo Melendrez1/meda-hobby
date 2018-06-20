@@ -1,0 +1,40 @@
+body {
+    background-color: blue;
+}
+
+img {
+    width: 400px;
+}
+
+p {
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+
+h1 {
+    color: pink;
+}
+
+li {
+    font-size: 20px;
+}
+
+/*
+div {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid
+}
+*/
+
+#header {
+        height: 100px;
+}
+
+#really-like-it {
+    font-size: 50px;
+}
+.like-to-haves {
+    color: red;
+}
